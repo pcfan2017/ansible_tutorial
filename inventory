@@ -1,3 +1,8 @@
+[web_servers]
 host2u
+
+[db_servers]
 host3u
+
+[file_servers]
 host1c

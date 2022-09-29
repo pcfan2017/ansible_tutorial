@@ -1,0 +1,3 @@
+host2u apache_package=apache2 php_package=libapache2-mod-php
+host3u apache_package=apache2 php_package=libapache2-mod-php
+host1c apache_package=httpd php_package=php
