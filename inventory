@@ -6,3 +6,6 @@ host3u
 
 [file_servers]
 host1c
+
+[workstations]
+workstation
